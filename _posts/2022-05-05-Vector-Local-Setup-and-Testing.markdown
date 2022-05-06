@@ -79,7 +79,7 @@ path = "/tmp/output.log"
 
 Below is how the workspace directory looks like
 
-![Directory structure of workspace](/assets/images/2022-05-05/1.png)
+![Directory structure of workspace]({{ site.baseurl }}/assets/images/2022-05-05/1.png)
 
 Here is how the docker compose file looks like
 

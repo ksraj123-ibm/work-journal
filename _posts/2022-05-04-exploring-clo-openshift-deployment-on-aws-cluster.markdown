@@ -55,7 +55,7 @@ Deploy the `ClusterLogging` custom resource using the below command
 oc apply -f hack/cr-vector.yaml
 {% endhighlight %}
 
-![Getting ClusterLogging resources in openshift-logging namespace](/assets/images/2022-05-04/1.png)
+![Getting ClusterLogging resources in openshift-logging namespace]({{ site.baseurl }}/assets/images/2022-05-04/1.png)
 
 The below command gets the `collector-config` secret, base64 decrypts it and views it.
 
